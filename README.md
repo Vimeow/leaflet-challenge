@@ -6,10 +6,6 @@ Person: Vy Nguyen
 
 Date: 23/01/2024
 
-# Deployment
-
-Link to my dashboard:
-
 # Data reference
 
 Dataset created by https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
